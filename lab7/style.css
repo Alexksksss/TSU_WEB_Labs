@@ -1,0 +1,16 @@
+.square{
+	background-color: #ff1a1a;
+	position: absolute;
+	opacity: .9;
+}
+.triangle{
+	background-color: #1a1aff;
+	position: absolute;
+	opacity: .9;
+}
+.circle{
+	background: #1aff1a;
+	position: absolute;
+	border-radius: 50%;
+	opacity: .9;
+}
