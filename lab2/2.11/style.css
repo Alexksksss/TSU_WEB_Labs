@@ -1,0 +1,8 @@
+.page{
+    height: 265px;
+    background-color: #00ffff;
+    border: 1px solid #000000;
+}
+.image{
+    float: right;
+}

@@ -1,0 +1,44 @@
+.page {
+    font-size: 17px;
+    overflow: hidden;
+    display: flex;
+}
+.left {
+    float: left;
+    width: 25%;
+    background-color: #c8fc98;
+    margin-right: 10px;
+    padding-left: 10px;
+    height: 100%;
+}
+.right {
+    float: right;
+    width: 200px;
+    background-color: #fde95e;
+    margin-left: 10px;
+    padding-right: 10px;
+}
+.center {
+    flex: 1;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+header {
+    font-weight: bold;
+    background-color: #eaeaea;
+    font-size: 28px;
+    height: 50px;
+    padding: 10px;
+}
+footer {
+    float: inline-end;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+a {
+    margin-bottom: 1em;
+}
+a:link {
+    color: #ffff80;
+}

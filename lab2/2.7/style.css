@@ -1,0 +1,45 @@
+.page{
+	color: white;
+}
+.static{
+	position: static;
+	background-color: #8a2be2;
+	width: 200px;
+	height: 150px;
+}
+.relative_red{
+	position: relative;
+	background-color: #8b0000;
+	width: 200px;
+	height: 150px;
+}
+.relative_orange{
+	position: relative;
+	background-color: #cd853f;
+	width: 200px;
+	height: 150px;
+	left: 30px;
+	bottom: 30px;
+}
+.relative_pink{
+	position: relative;
+	background-color: #cd5c5c;
+	width: 800px;
+	height: 600px;
+}
+.absolute{
+	position: absolute;
+	background-color: #4b0082;
+	width: 400px;
+	height: 300px;
+	right: 0px;
+	top: 100px;
+}
+.fixed{
+	position: fixed;
+	background-color: #228b22;
+	width: 200px;
+	height: 200px;
+	bottom: 0px;
+	right: 0px;
+}

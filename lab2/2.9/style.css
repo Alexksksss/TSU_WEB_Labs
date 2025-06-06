@@ -1,0 +1,15 @@
+.text{
+    color:white;
+}
+.page{
+    width: 750px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;   
+    background-color: #0000ff;
+}
+.image{
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}

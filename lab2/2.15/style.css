@@ -1,0 +1,11 @@
+.page div{
+    width: 200px;
+    height: 100px;
+    background-color: #7fffd4;
+    display: inline-block;
+    margin: 20px;
+}
+
+footer{
+    background-color: #faebd7;
+}

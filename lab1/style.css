@@ -1,0 +1,101 @@
+*
+{
+    color: white;
+    margin:0;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-indent: 0;
+}
+.page
+{
+    font-family: Arial, sans-serif;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: #0000ff;
+    padding-bottom: 15px;
+    position: relative;
+}
+header
+{   
+    font-family: 'Lucida Console', monospace;
+    line-height: 50px;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #008000;
+}
+footer
+{   
+    font-family: Arial, sans-serif;
+    line-height: 50px;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #008000;
+
+}
+a:link {
+    color: #ff0000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    margin-bottom: 1em;
+}
+.borders
+{
+    width: 100px;
+    height: 100px;
+    border: 5px solid;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    float:left;
+}
+.here{
+    color: #ff0000;
+}
+
+table
+{
+    height: 125px;
+    width: 150px;
+    float: right;
+    border: 1px solid;
+    margin-right: -20px;
+}
+td
+{
+    text-align: center;
+    border: 1px solid;
+}
+.image {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.list{
+    padding: 0;
+    margin-left: -30px;
+}
+
+p{
+    margin-bottom: 0.6em;
+}
+
+.one{
+    background-color: #008000;
+    vertical-align: bottom;
+}
+.seven{
+    background-color: #ff0000;
+}
+.format{
+    margin-left: -30px;
+}
+.val2{
+    letter-spacing: 5px;
+}

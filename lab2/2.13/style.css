@@ -1,0 +1,29 @@
+.page{
+    background-color: #00ffff;
+    width: 100%;
+    border: 2px solid;
+    border-color: green;
+    display: flex;
+}
+.points{
+    background-color: #ffe4c4;
+    height: 100px;
+    width: 300px;
+    padding: 5px;
+}
+.text{
+    margin-right: 0px;
+    background-color:  #a9a9a9;
+    max-width: 80%;
+    min-width: 700px;
+}
+img{
+    width: 30vw;
+    float: right;
+}
+*{
+    margin: 0; 
+}
+.text-2, .text-3{
+    clear: right;
+}

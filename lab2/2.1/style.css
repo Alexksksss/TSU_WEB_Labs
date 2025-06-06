@@ -1,0 +1,37 @@
+.page{
+    font-size: 17px;
+}
+.left{
+	float: left;
+    width: 200px;
+    background-color: #c8fc98;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+.right{
+    padding-left: 200px;
+}
+
+header{
+    font-weight: bold;
+    background-color: #eaeaea;
+    font-size: 28px;
+    height: 50px;
+    padding: 10px;
+}
+footer
+{  
+    float: inline-end;
+    background-color: black;
+    text-align: center;
+    padding:10px
+}
+.page{
+    overflow: hidden;
+}
+a{
+    margin-bottom: 1em;
+}
+a:link{
+    color:#ffff80; 
+}
